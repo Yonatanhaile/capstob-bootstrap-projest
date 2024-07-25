@@ -1,0 +1,16 @@
+.first{
+    background-color: #405D72;
+;
+}
+ .footer{
+    background-color: #F6FB7A;
+ }
+
+
+
+ .gradient-background {
+    background: linear-gradient(300deg, #3FA2F6, #3FA2F6, #FFF078);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+
